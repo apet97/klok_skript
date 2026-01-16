@@ -1,0 +1,16 @@
+# Clockify Workspace Configuration
+workspace:
+  fallback_manager_email: "example@example.com"
+  fallback_group_name: "Other functions"
+
+# CSV Column to Clockify Custom Field Mapping
+field_mapping:
+  "Company (Label)": "Company"
+  "Country (Label)": "Country"
+  "Global Id": "Global ID"
+
+# Operational Limits
+api:
+  base_url: "https://api.clockify.me/api/v1"
+  rate_limit_delay: 0.15  # seconds between requests
+  max_retries: 3
