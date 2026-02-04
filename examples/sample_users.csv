@@ -1,0 +1,5 @@
+NTID email,Manager NTID email,Weekly Working Hours,Company (Label),Country (Label),Global Id
+john.doe@example.com,jane.smith@example.com,40,Acme Corp,USA,12345
+jane.smith@example.com,boss@example.com,40,Acme Corp,USA,12344
+bob.wilson@example.com,jane.smith@example.com,37.5,Acme Corp,Germany,12346
+orphan.user@example.com,,40,Acme Corp,France,12347

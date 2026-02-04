@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+*.csv
+!examples/sample_users.csv
+.ipynb_checkpoints/
+sync_success_log.csv
+sync_error_log.csv
